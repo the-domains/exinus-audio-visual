@@ -1,0 +1,23 @@
+name: Exinus Audio Visual
+favicon: null
+layout_spectrum: 0.2781566409394145
+typography_spectrum: 0.36343473196029663
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.22675625188276172
+  lightness: 0.8661829987540841
+  saturation: 0.9824828829150647
+  rhythmicContrast: 0.3561747504863888
+purpose: []
